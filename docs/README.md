@@ -35,8 +35,8 @@ Schrijf correcte html, eventueel testen op https://validator.w3.org/checklink/ch
 
 - Dril 04: form2.html
 
-    ![](images/3_5.png)
-    ![](images/3_6.png)
+    ![](images/3_5.PNG)
+    ![](images/3_6.PNG)
 
 Zorg ervoor dat als je op de tekst (label) van een formulier element klikt, je focus krijgt in het overeenkomende formulier element.      
 Naam, geboortedatum en land zijn verplichte velden.     
@@ -48,26 +48,26 @@ Het formulier wordt verstuurd met de POST method naar *je hogent-account e-maila
 De Likwiepedia die in deze oefening gemaakt wordt is een eenvoudigere versie van de Liquipedia pagina voor het WCS Montreal. De focus ligt op het nabouwen van verschillende tabellen die op deze pagina te vinden zijn.
 De afgewerkte site (met css - volgend hoofdstuk) zal er als volgt uitzien:
 
-![](images/l02.png)
-![](images/l03.png)
+![](images/l02.PNG)
+![](images/l03.PNG)
 
 Eindresultaat van de tabellen zonder css.
 
-![](images/l04.png)
+![](images/l04.PNG)
 
 Maak eerst de **Prize pool** tabel, zoals hieronder. 
 
-![](images/l05.png)
+![](images/l05.PNG)
 
 Tip: gebruik voor alle tabellen het table *attribuut* **border="1"** om de borders zichtbaar te maken, zoals hieronder weergegeven. Als de tabel klaar is verwijder je het attribuut opnieuw.      
 
 Vervolgens de **Participant** table
 
-![](images/l06.png)
+![](images/l06.PNG)
 
 Tot slot de **Distribution** table
 
-![](images/l07.png)
+![](images/l07.PNG)
 
 ------
 
@@ -75,10 +75,10 @@ Tot slot de **Distribution** table
 De bedoeling van deze oefening is om het registratieformulier van de bol.com webwinkel na te bouwen. Het uiteindelijke resultaat moet er als volgt uitzien:    
 
 Zonder css:
-![](images/bdc01.png)
+![](images/bdc01.PNG)
 
 Met css:
-![](images/bdc02.png)
+![](images/bdc02.PNG)
 
 **Algemene beschrijving**
 Het formulier waarin de accountgegevens worden ingevuld bestaat uit 3 fieldsets: 
@@ -102,7 +102,7 @@ We bouwen ze stuk voor stuk op.
     - De geboortedatum is een date-veld. Moet niet ingevuld worden.
     - Het telefoonnummer moet verplicht ingevuld worden. Gebruik type “number” zodat de gebruiker enkel cijfers kan invoeren.
 
-    ![](images/bdc03.png)
+    ![](images/bdc03.PNG)
 
 **Inloggegevens**
 1. Voeg een nieuwe fieldset toe voor de Inloggegevens. Zorg voor de juiste titel in de legend.
@@ -110,11 +110,11 @@ We bouwen ze stuk voor stuk op.
     - Het emailadres is verplicht in te vullen. Gebruik het correcte type zodat enkel geldige emailadressen aanvaard zullen worden. Zet een placeholder met daarin een voorbeeldemailadres.
     - Wachtwoord moet ook verplicht ingevuld worden. Gebruik hier ook het gepaste type zodat sterretjes getoond worden in plaats van het wachtwoord. Gebruik hier ook een placeholder om aan de gebruiker te laten weten dat het wachtwoord minstens 8 tekens moet bevatten. Een check of dit inderdaad het geval is voegen we echter niet toe.
 
-    ![](images/bdc04.png)
+    ![](images/bdc04.PNG)
 
 **Nieuwsbrief**
 1. Voeg de laatste fieldset toe voor de nieuwsbrieven. Deze heeft geen legend.
 2. De selectie voor de nieuwsbrieven staat binnen een tabel. Deze bestaat uit 3 rijen en 2 kolommen. De bovenste rij bevat de hoofdingen, de twee volgende rijen bestaan uit een cel met een checkbox en een cel met de uitleg van de bijhorende nieuwsbrief. Beide checkboxen zijn standaard aangevinkt.
 3. Voeg tenslotte nog een *verzenden* knop toe.
 
-    ![](images/bdc05.png)
+    ![](images/bdc05.PNG)
