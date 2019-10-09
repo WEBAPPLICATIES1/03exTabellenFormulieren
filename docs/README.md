@@ -13,7 +13,7 @@ Maak eerst een map in de root aan: **driloefeningen**.
 
 Om de structuur van een html pagina snel aan te maken in de editor, gebruik je emmet (!tab).
 
-Schrijf correcte html, eventueel testen op https://validator.w3.org/checklink/checklink, om onderstaande screenshots in je browser weer te geven.
+Schrijf correcte html, eventueel testen op https://validator.w3.org/, om onderstaande screenshots in je browser weer te geven.
 
 - Dril 01: tabel1.html
 
